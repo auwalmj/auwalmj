@@ -1,16 +1,11 @@
-## Hi there 👋
+## Hi there 
 
-<!--
-**auwalmj/auwalmj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on become a skilled web developer
+- 🌱 I’m currentl[ learning ](https://github.com/geekinks/WebDevMentorship-CrashCourse)
+- 👯 I’m looking to collaborate on Software Development projects
+- 🤔 I’m looking for help with improving developmet skills
+- 💬 Ask me about 
+- 📫 How to reach me: muhammadauwalmj@gmail.com
+  
+- ⚡ Fun fact: love tech
+  
